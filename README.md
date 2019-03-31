@@ -38,7 +38,8 @@ make install
 
 ##### 4. 使用uWSGI启动Django 项目
 我的项目结构如图所示:
-![](media/15531613765120/15539987898174.png)
+
+![项目结构图片](https://github.com/yabolu/nginx-uWSGI-Django-/blob/master/images/project.png)
 
 
 
