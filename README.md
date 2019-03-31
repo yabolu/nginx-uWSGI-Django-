@@ -140,7 +140,7 @@ server {
 启动nginx
 
 ```
-/usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx_8888.conf
+/usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx_8000.conf
 ```
 
 验证:
