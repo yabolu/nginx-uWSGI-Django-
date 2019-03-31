@@ -145,7 +145,7 @@ server {
 
 验证:
 
-![](media/15531613765120/15540014709536.png)
+![验证](https://github.com/yabolu/nginx-uWSGI-Django-/blob/master/images/itworked.png)
 
 
 
