@@ -1,4 +1,4 @@
-# nginx-uWSGI-Django-
+# nginx + uWSGI 部署Django 项目
 
 ##### 1. 安装依赖包
 
