@@ -104,6 +104,7 @@ sh reload.sh
 ```
 //配置方式一:
 server {
+    uwsgi_read_timeout 500;#这里默认是60
     listen 8000;
     server_name 127.0.0.1;
     location / {
@@ -123,6 +124,7 @@ server {
     listen 8000;
     server_name 127.0.0.1;
     location / {
+        uwsgi_read_timeout 500;#这里默认是60
         include uwsgi_params;
         uwsgi_pass 127.0.0.1:8888;
     }
